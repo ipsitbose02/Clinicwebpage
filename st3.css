@@ -1,0 +1,142 @@
+.text-images{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+.text1{
+    width: 500px;
+    margin: 50px;
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: rgba(12, 12, 90, 0.807);
+    justify-content: center;
+    text-align: center;
+}
+
+.T1{
+    font-size: 40PX;
+    margin-bottom: 40px;
+    justify-content: center;
+}
+.T2{
+    
+    justify-content: center;
+}
+
+.image{
+    border: 4px;
+    border-style: solid;
+    border-color: #93C9ED;
+    border-radius: 5px;
+}
+
+.text2{
+    width: 500px;
+    margin: 50px;
+    margin-top: 70px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: rgba(12, 12, 90, 0.807);
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+.tie{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.box{
+    height: 350px;
+    width: 428px;
+}
+
+.box1{
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.locate{
+    color: rgba(12, 12, 90, 0.807);
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    margin: 50px;
+}
+
+.locate1{
+    color: rgba(12, 12, 90, 0.807);
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    margin: 50px;
+    margin-bottom: 30px;
+}
+
+.locator{
+    display: flex;
+}
+
+
+
+.box2{
+    background-image: url(delhi\ \(1\).jpg);
+    color: white;
+    font-size: 24px;
+    
+    font-weight: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box3{
+    background-image: url(US\ \(1\).jpg);
+    color: white;
+    font-size: 24px;
+    
+    font-weight: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.ter{
+    margin-top: 250px;
+}
+
+.box4{
+    background-image: url(UK\ \(1\).webp);
+    color: white;
+    font-size: 24px;
+    
+    font-weight: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box5{
+    background-image: url(russia\ \(1\).jpg);
+    color: white;
+    font-size: 24px;
+    
+    font-weight: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box6{
+    background-image: url(Austrailia\ \(1\).webp);
+    color: white;
+    font-size: 24px;
+    
+    font-weight: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+

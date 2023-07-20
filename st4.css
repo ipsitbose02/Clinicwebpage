@@ -1,0 +1,239 @@
+.Feature{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.find{
+    width: 403px;
+}
+
+.dis1{
+    width: 403px;
+}
+
+.dis2{
+    width: 403px;
+}
+
+.lar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding: 15px;
+    color: rgba(12, 12, 90, 0.807)
+}
+
+.terf{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 15px;
+    color: rgba(12, 12, 90, 0.807)
+}
+
+.tes{
+    font-size: 24px;
+    border-top: 1.7px solid rgba(128, 128, 128, 0.145);
+    padding: 15px;
+    color: rgba(12, 12, 90, 0.807)
+}
+
+
+.tes2{
+    font-size: 24px;
+    border-top: 1.7px solid rgba(128, 128, 128, 0.234);
+    border-bottom: 1px solid rgba(128, 128, 128, 0.216);
+    padding: 15px;
+    color: rgba(12, 12, 90, 0.807)
+    
+}
+
+.donation{
+    display: flex;
+    justify-content: space-evenly;
+    height: 173.1px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #0d0d33;
+}
+
+.logo-heart{
+    width: 195.99px;
+    font-size: 200px;
+    
+    color: white;
+}
+
+.larger{
+    width: 330px;
+    padding-top: 40px;
+    font-size: 40px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    padding-top: 35px;
+    padding-bottom: 0px;
+}
+
+
+.lares{
+    font-size: 20px;
+    width: 415px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    padding-top: 35px;
+    padding-bottom: 0px;
+}
+
+.don{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 35px;
+    color: white;
+    text-align: center;
+    text-align-last: center;
+    justify-content: center;
+    background-color: #0057b8;
+    border: 3px solid #0057b8;
+    border-radius: 30px;
+}
+
+.don:active{
+    background-color: #141434;
+}
+
+
+
+.contain-connect{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #012D61;
+    padding: 25px;
+}
+
+.about{
+    width: 428px;
+}
+
+.sig{
+    padding: 16px 20px;
+    padding-right: 70px;
+    border: 2px solid rgba(255, 255, 255, 0.319);
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
+
+.sig:hover{
+    border: 2px solid white;
+}
+
+.fer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    padding: 8px 12px;
+    padding-top: 15px;
+}
+
+.fed:hover{
+    border-bottom: 1px solid white;
+}
+
+.fed{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: white;
+    padding: 8px 12px;
+}
+
+.fer:hover{
+    border-bottom: 1px solid white;
+}
+
+
+.inter{
+    background-color: #012D61;
+    height: 153px;
+}
+
+.Follow-get{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Follow{
+    padding: 10px;
+    margin-top: 20px;
+    padding-right: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+
+.Follow1{
+    padding: 10px;
+    margin-top: 20px;
+    padding-left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+
+}
+
+.fp{
+    padding-bottom: 20px;
+    font-size: 25px;
+}
+
+
+
+
+.social{
+    display: flex;
+}
+
+.logger{
+    margin: 5px;
+    padding: 8px;
+    border: 2px solid grey;
+    border-radius: 100px;
+}
+
+.logger:active{
+    background-color: grey;
+}
+
+.get{
+    padding: 10px;
+}
+
+.footer{
+    background-color: #E1F0FF;
+    padding: 20px;
+}
+
+.terms{
+    display: flex;
+    padding: 20px;
+    padding-bottom: 40px;
+    justify-content: space-evenly;
+}
+
+.perks{
+    padding: 5px 20px;
+    font-size: 16px;
+}
+
+.copyc{
+    padding: 30px 40px;
+    font-size: 15px;
+    color: rgb(103, 103, 103);
+}
+
+
+
